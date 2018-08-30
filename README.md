@@ -1,1 +1,1 @@
-# android_device_samsung_apq8084-common
+## LineageOS common device tree for Samsung apq8084 devices
